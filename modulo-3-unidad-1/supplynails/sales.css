@@ -1,0 +1,19 @@
+nav ul li a.activo{
+    background-color: blueviolet;
+
+}
+.sales{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1em;
+}
